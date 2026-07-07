@@ -113,7 +113,7 @@ Accurate weekly sales forecasts allow retail teams to:
 ## 👤 Author
 
 **Tareq** — Data Scientist
-[LinkedIn] (https://www.linkedin.com/in/tarek-mohamed-el-naggar/) · [Kaggle](https://www.kaggle.com/tarekelnaggar) · [GitHub](https://github.com/tito644)
+[LinkedIn](https://www.linkedin.com/in/tarek-mohamed-el-naggar/) · [Kaggle](https://www.kaggle.com/tarekelnaggar) · [GitHub](https://github.com/tito644)
 
 ---
 
