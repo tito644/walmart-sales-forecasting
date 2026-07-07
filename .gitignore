@@ -1,6 +1,6 @@
-# Data (keep structure, ignore large raw files if needed — adjust as you like)
-data/raw/*.csv
-data/processed/*.csv
+# Note: data/ and models/ are intentionally tracked (not ignored) so anyone
+# cloning this repo can run the notebooks and the Streamlit app immediately
+# without having to re-download the dataset or retrain the model.
 
 # Python
 __pycache__/
@@ -9,13 +9,9 @@ venv/
 .env
 .ipynb_checkpoints/
 
-# MLflow
+# MLflow (reproducible by re-running notebooks/03_modeling.ipynb)
 mlruns/
 mlflow.db
-
-# Models (large binary files — track via Git LFS if needed)
-models/*.pkl
-models/*.joblib
 
 # OS / Editor
 .DS_Store
