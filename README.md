@@ -7,7 +7,7 @@
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2.svg)](https://mlflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-🔗 **Live Demo:** _[[Streamlit app link — add after deployment](https://walmartsales-forecasting.streamlit.app/)]_
+🔗 **Live Demo:** _[[Streamlit app link](https://walmartsales-forecasting.streamlit.app/)]_
 📊 **Kaggle Notebook:** _[Kaggle notebook link — add after publishing]_
 
 ---
